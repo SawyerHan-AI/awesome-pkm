@@ -20,6 +20,7 @@ A curated list of brilliantly awesome approaches, articles, and tools for Person
 ## Tools
 
 * [Knowfox](https://knowfox.com) - Personal Knowledge Management tool #opensource #laravel
+* [TideMind](https://github.com/SawyerHan-AI/TideMind) - Open-source AI memory layer with a living knowledge graph. Connects AI tools and notes via MCP. Local-first, SQLite-backed.
 
 Photo of white library by Kuma Kum [on Unsplash](https://unsplash.com/photos/SiOJXlWeWc0).
 
